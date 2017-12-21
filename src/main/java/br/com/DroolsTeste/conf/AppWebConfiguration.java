@@ -15,7 +15,7 @@ public class AppWebConfiguration extends WebMvcConfigurerAdapter
 {
 
 	/**
-	 * Teste
+	 * Teste adriano
 	 */
    @Override
    public void configureDefaultServletHandling(DefaultServletHandlerConfigurer configurer)
